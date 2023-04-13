@@ -41,5 +41,4 @@ foreach (var item in dict)
     file_output.Write("\n");
 }
 file_output.Close();
-Console.WriteLine(3);
 Console.ReadKey();
